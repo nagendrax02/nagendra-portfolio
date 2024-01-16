@@ -1,0 +1,28 @@
+{
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "subtitle": "Jio Platform Ltd (AI COE)",
+      "workType": "Full-time",
+      "workDescription": [
+        "Worked as a frontend developer, specializing in React, within a large team to design user interfaces for AI applications.",
+        "Designed user interfaces for AI applications, showcasing expertise in React.",
+        "Developed multiple high-quality UI applications for seamless user experiences.",
+        "Expanded skill set by learning and implementing new technologies",
+        "Collaborated with an R&D team, continually engaging in research and development to foster a continuous learning environment and stay updated on the latest advancements.",
+        "Actively participated in professional development initiatives like 'Learn and Grow."
+      ],
+      "dateText": "Jan-2022 to Present"
+    },
+    {
+      "title": "Internship",
+      "subtitle": "Masai School",
+      "workType": "Full Time",
+      "workDescription": [
+        "Acquired proficiency in the MERN stack technologies and successfully applied my knowledge by completing 4-5 projects.",
+        "gained experience and skills in remote work environments."
+      ],
+      "dateText": "March-2021 to Dec-2022"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[295],{1295:(p,a,e)=>{p.exports=e.p+"static/media/or-img.faba939f15a387149ae9.JPG"}}]);

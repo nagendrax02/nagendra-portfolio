@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[831],{7831:(p,a,o)=>{p.exports=o.p+"static/media/favicon.4aa8e6203f075cc741b6.ico"}}]);

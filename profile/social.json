@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/nagendrax02"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/nagendrax02"
+        },
+        {
+            "network" : "email",
+            "href": "nagendrax02@gmail.com"
+        }
+    ]
+}
