@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": " August 2019",
+            "cardTitle": "Bachelor of Science, Information Technology",
+            "cardSubtitle":"Shri Guru Ram Rai University, Dehradun",
+            "icon" : {
+                "src": "images/education/sgrru-logo-2023.png"
+            }
+        },
+        {
+            "title": "May 2016",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Board of Uttrakhand Education"
+        },
+        {
+            "title": "May 2014",
+            "cardTitle": "High School",
+            "cardSubtitle":"Board of Uttrakhand Education"
+        }
+    ]
+}

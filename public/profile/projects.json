@@ -1,0 +1,50 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/vizard.png",
+            "title": "VIZARD Tool",
+            "bodyText": "- Developed A **Data Labeling Tool** for internal Jio Data science team to find raw data in image, text formats which helps data analysts to label data.\n - Developed a user interface for AI models\n - Real-time display of predicted results by AI models in the UI.\n - Successful creation of a user-friendly UI for AI model predictions with document uploads.\n - Implemented distinct roles for admin, super admin, and annotator in the data labeling tool ",
+            "links": [
+               
+            ],
+            "tags" : [
+                "React",
+                "React Konva",
+                "Redux",
+                "Redux Saga",
+                "Axios"
+            ]
+        },
+        {
+            "image" : "images/projects/api-3.png",
+            "title": "User Management API ",
+            "bodyText": "- Developed as a Node.js API \n - Specializes in **user authentication and management** Allows users to register securely \n - Provides a seamless login process \n - Implements access tokens for enhanced security \n - Enables access to a list of registered users",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nagendrax02/NodeUsersApp"
+                }
+            ],
+            "tags" : [
+                "node js",
+                "mongo db",
+                "jsonwebtoken",
+                "Javacript"
+            ]
+        },
+        {
+            "image" : "images/projects/kpi-dashboard.png",
+            "title": "Data Analytics ",
+            "bodyText": "- Collaborated on the development of a data analytics tool during my tenure with Jio AI CoE (Center of Excellence). \n - Developed an in-house data analytics solution to safeguard the confidentiality of project data, opting for a custom approach due to privacy considerations. \n - Provides a seamless login process \n - Developed visually appealing charts and graphs to represent analytics data effectively \n - Enabled users to access analytics features upon successful authentication",
+            "links": [
+             
+            ],
+            "tags" : [
+                "High Charts",
+                "React",
+                "Redux",
+                "Redux Saga"
+            ]
+        }
+    ]
+}
