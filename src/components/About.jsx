@@ -18,6 +18,7 @@ const styles = {
   },
   introImageContainer: {
     margin: 10,
+    padding: 50,
     justifyContent: "center",
     alignItems: "center",
     display: "flex",
@@ -46,7 +47,7 @@ function About(props) {
         <Container>
           {data ? (
             <Fade>
-              <Row>
+              <Row style={{flexWrap:'wrap'}}>
                 <Col style={styles.introTextContainer}>
                   {parseIntro(data.about)}
                   <ul>
@@ -61,7 +62,7 @@ function About(props) {
                   </ul>
                 </Col>
                 <Col style={styles.introImageContainer}>
-                  <img style={{ borderRadius: '250px' }} src={data?.imageSource} alt="profile" />
+                  <img  style={{ borderRadius: '250px', height: '20rem' }} src={data?.imageSource} alt="profile" />
                 </Col>
               </Row>
               <Row>
@@ -69,7 +70,7 @@ function About(props) {
                   {parseIntro(data.aboutSecond)}
                 </Col>
               </Row>
-              <Row>
+              <Row style={{flexWrap:'wrap'}}>
                 <Col style={styles.introTextContainer}>
                   <ul>
                     <h3 style={{ textAlign: "start" }}>Professional Summary</h3>
